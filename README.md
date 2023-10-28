@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2,3"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=35&center=true&vCenter=true&width=800&lines=Olá!,+Eu+sou+o+Manoel+Arcnjo;Tenho+20+anos;Eu+sou+Desenvolvedor+Front-End;Sejam+Bem-Vindos!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=35&center=true&vCenter=true&width=800&lines=Olá!,+Eu+sou+o+Manoel+Arcanjo;Tenho+20+anos;Eu+sou+Desenvolvedor+Front-End;Sejam+Bem-Vindos!)
 
 
 <div align="center">  
