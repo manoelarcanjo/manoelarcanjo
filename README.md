@@ -1,7 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2,3"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=35&center=true&vCenter=true&width=800&lines=Olá!,+Eu+sou+o+Manoel+Arcanjo;Tenho+20+anos;Eu+sou+Desenvolvedor+Front-End;Sejam+Bem-Vindos!)
+<div align="center">
+<h1>Olá, Sou Manoel Arcanjo</h1>
+  <p>
+    Tenho 20 anos e
+    sou estudante da Formação em Tecnologia pela Escola DNC. <br/>
+    Estou sempre em busca de desafios e oportunidades de aprendizado e crescimento na área de desenvolvimento web
+  </p>
+</div>
 
+<br/>
+
+<div align="center"> 
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=35&center=true&vCenter=true&width=800&lines=Sejam+Bem-Vindos!)
+<div/>
 
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=manoelarcanjo&show_icons=true&count_private=true&hide_border=true&title_color=E8E5BC&icon_color=E8E5BC&text_color=c9d1d9&bg_color=0d1117" alt="Manoel Arcanjo github stats"/>
