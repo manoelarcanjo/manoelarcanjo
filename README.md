@@ -26,7 +26,7 @@
 <div align="center">
     <h3>Redes Sociais</h3>
     <br/>
-<a href="https://www.instagram.com/sr_arcanjo1/">
+<a href="https://www.instagram.com/codebyarcanjo/">
     <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
     
@@ -37,6 +37,7 @@
 <a href="https://www.linkedin.com/in/manoelarcanjo/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
 </div>
 
 <hr>
@@ -81,6 +82,11 @@
 
 <hr>
 
+<div align="center">
+  [Site(http://code-by-arcanjo.vercel.app)]
+</div>
+  
+<hr>
 
 <p align="center">
     “A arte de programar consiste em organizar e dominar a complexidade.” - Edsger W. Dijkstra
