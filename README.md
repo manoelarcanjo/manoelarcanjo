@@ -83,7 +83,7 @@
 <hr>
 
 <div align="center">
-  [Site(http://code-by-arcanjo.vercel.app)]
+  [Site}(http://code-by-arcanjo.vercel.app)
 </div>
   
 <hr>
