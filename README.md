@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Olá, Sou Manoel Arcanjo</h1>
   <p>
-    Tenho 20 anos e sou graduando de Analise e Desenvolvimento de sistemas pela Uninassau,
+    Tenho 20 anos e sou graduando de Analise e Desenvolvimento de sistemas pela Uninassau, <br/>
     sou estudante da Formação em Tecnologia pela Escola DNC e estudante do Curso de Front-end pela Vai na Web <br/>
     Estou sempre em busca de desafios e oportunidades de aprendizado e crescimento na área de desenvolvimento web
   </p>
